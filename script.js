@@ -23,7 +23,7 @@ function draw() {
         ctx.moveTo(left, y);
         ctx.lineTo(right, y);
     }
-    ctx.strokeStyle = "#888";
+    ctx.strokeStyle = "#ff0000";
     ctx.stroke();
 }
 
